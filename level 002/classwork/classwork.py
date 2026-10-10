@@ -1,0 +1,5 @@
+password = "12345678"
+name = "nika"
+location = "sasadilo"
+food = "mwvadi"
+favfood = "xinkali"
