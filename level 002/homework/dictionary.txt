@@ -1,4 +1,8 @@
 parentheses-ფრჩხილები ()
 quotation marks
 
+#varitable
 
+#snakecase
+
+#camelcase
